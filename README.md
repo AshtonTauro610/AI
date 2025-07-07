@@ -1,6 +1,6 @@
 # AI
 
-<br><p>ptiRoute is an AI-powered solution designed to address inefficiencies in taxi driver allocation for leading 
+<br><p><strong>OptiRoute</strong> is an AI-powered solution designed to address inefficiencies in taxi driver allocation for leading 
 UAE ride-hailing services such as Dubai Taxi Corporation (DTC) and Careem. Traditional dispatching 
 methods often led to too many drivers hanging around in areas with few riders, while high-demand spots 
 were left waiting, leading to increased fuel consumption, longer passenger wait times, higher operational 
