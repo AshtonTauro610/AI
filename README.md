@@ -1,4 +1,4 @@
-# AI
+# OptiRoute AI
 
 <br><p><strong>OptiRoute</strong> is an AI-powered solution designed to address inefficiencies in taxi driver allocation for leading 
 UAE ride-hailing services such as Dubai Taxi Corporation (DTC) and Careem. Traditional dispatching 
